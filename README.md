@@ -7,3 +7,5 @@ This is a good beginner project and a nice piece of code to have when you're usi
 
 See more detail on my website at www.ganslermike.com
 
+![](images/seven%20seg%20top%20level%20schem.PNG)
+![](images/seven%20segs%20coffee.jpg)
