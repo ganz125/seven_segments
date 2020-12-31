@@ -7,6 +7,10 @@ This is a good beginner project and a nice piece of code to have when you're usi
 
 See more detail on my website at www.ganslermike.com
 
-<img src="images/seven seg top level schem.PNG" height="100")
-
-<img src="images/seven segs coffee.jpg" height="100">
+<p align="center">
+   <img src="images/seven seg top level schem.PNG" height="400"?
+</p>
+        
+<p align="center">
+   <img src="images/seven segs coffee.jpg" height="500" align="center">
+</p>
