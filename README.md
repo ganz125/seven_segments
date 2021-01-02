@@ -1,5 +1,5 @@
 # seven_segments
- Verilog code to drive 6 digit 7 segment display
+ Six digit 7 segment display driver code for an FPGA in Verilog
 
 This is a short bit of Verilog code for displaying a 6 digit wide hex number on a group of 7-segment displays.  I think the test code is actually longer than the code it's testing.  :-)
 
